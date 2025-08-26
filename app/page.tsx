@@ -2,11 +2,9 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
-      <h1 className="text-3xl text-violet-700 font-black">
-        Welcome to Next.js
-      </h1>
-    </div>
+    <>
+      <h1 className="h1-bold">Welcome to Next.js</h1>
+    </>
   );
 };
 
